@@ -1,0 +1,13 @@
+diff --git a/node_modules/@quartz-community/tag-page/dist/index.js b/node_modules/@quartz-community/tag-page/dist/index.js
+index 513687b..df0d9e8 100644
+--- a/node_modules/@quartz-community/tag-page/dist/index.js
++++ b/node_modules/@quartz-community/tag-page/dist/index.js
+@@ -2875,7 +2875,7 @@ var TagPage = (opts) => ({
+     const tags = new Set(
+       allFiles.flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes)
+     );
+-    tags.add("index");
++    
+     const existingTagSlugs = /* @__PURE__ */ new Set();
+     for (const [, file] of content) {
+       const slug = file.data?.slug;

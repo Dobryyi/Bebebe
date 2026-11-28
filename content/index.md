@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Добро пожаловать
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Нуэээ тут хб пуфикрафта2 кароч располагайтесь
+
+## Для ознакомления стоило бы перейти в [[хб.canvas|основной раздел]]
